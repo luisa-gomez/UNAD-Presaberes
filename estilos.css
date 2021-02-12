@@ -1,0 +1,52 @@
+body{
+    background-color: #6b9494;
+}
+
+
+.myfuente{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; font-weight: 500; font-size: 30px; text-align: center;
+    color: rgb(8, 8, 105);
+   
+    background-color: rgb(184, 184, 184); display: block; padding: 30px 30px; 
+}
+.myform{
+     color: black;
+     font-family:'Courier New', Courier, monospace; 
+ }
+ .fuente{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; text-align: center; font-weight: 200; color:rgb(8, 8, 105);font-weight: 200; font-size: 20px;
+ }
+ .main-container{
+     width: 600px;
+     margin: 150px auto;
+ }
+ .table{
+     
+     background-color: white;
+     text-align: left;
+     border-collapse: collapse;
+     width: 100%;
+ }
+ TH,TD{
+     padding: 20px;
+
+ }
+ thead{
+     background-color: #246355;
+     border-bottom: solid 5px #0F362D;
+     color: white;
+ }
+ tr:nth-child(even){
+     background-color: #ddd;
+ }
+ tr:hover td{
+     background-color: #6b9494;
+     color: white;
+ }
+ h4{
+     color: blue;
+    margin: 20px;
+ }
+ .foto1{
+    padding: 10px; margin: 10px; border: 2px solid black; float:left; width: 250px; 
+ }
